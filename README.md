@@ -1,5 +1,4 @@
-# aboutme
-About me
+<h3 align="center">About me</h3>
 <h1 align="center">Hi 👋, I'm Esteban Selvaggi</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
 
